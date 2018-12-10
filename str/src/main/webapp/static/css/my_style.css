@@ -1,0 +1,52 @@
+.myicon-ok{
+	background: url(../img/icons-img/accept.png) no-repeat;
+	padding:0 10px;
+	/* height:100%;
+	weight:100%; */
+}
+
+.myicon-cancel{
+	background: url(../img/icons-img/cancel.png) no-repeat;
+	padding:0 10px;
+	cursor: hand;
+	/* height:100%;
+	weight:100%; */
+}
+.myicon-undo{
+	background: url(../img/icons-img/arrow_undo.png) no-repeat;
+	padding:0 10px;
+	cursor: hand;
+	/* height:100%;
+	weight:100%; */
+}
+
+.myicon-user{
+	background: url(../img/icons-img/user.png) no-repeat;
+	padding:0 10px;
+	/* height:100%;
+	weight:100%; */
+}
+.myicon-user-female{
+	background: url(../img/icons-img/user_female.png) no-repeat;
+	padding:0 10px;
+	/* height:100%;
+	weight:100%; */
+}
+
+.myicon-eye-open{
+	background: url(../img/icons-img/eye.png) no-repeat;
+	padding:0 10px;
+	/* height:100%;
+	weight:100%; */
+}
+
+.fasong{
+	width: 98px;
+	position: absolute;
+	right: 0;
+	top: 12px;
+	cursor: pointer;
+	height: 25px;
+	background:#CEFFCE;
+	text-align:center;
+}  
